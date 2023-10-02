@@ -24,7 +24,8 @@
   
   .toolbar #twitter-logo:hover,
   .toolbar #github-logo:hover,
-  .toolbar #linkedin-logo:hover {
+  .toolbar #linkedin-logo:hover,
+  .toolbar #cs-logo:hover {
     opacity: 0.8;
   }
 
